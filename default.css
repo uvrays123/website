@@ -322,7 +322,7 @@ h6 { font-size: 16px; }
   color: #4b5156;
   font-size: 14px;
   justify-content: space-evenly;
-  background-color: var(--previewShadow);
+  z-index: 2;
 }
 
 #contact-form{
