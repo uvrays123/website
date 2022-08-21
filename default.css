@@ -41,7 +41,7 @@ a{
 }
 
 ul{
-  list-style: circle;
+  list-style: none;
 }
 
 h1 { font-size: 56px; }
@@ -321,8 +321,6 @@ h6 { font-size: 16px; }
 .post-intro{
   color: #4b5156;
   font-size: 14px;
-  justify-content: space-evenly;
-  display: flex;
 }
 
 #contact-form{
