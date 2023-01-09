@@ -1,1 +1,1 @@
-<h2>My Personal Website :). I made it using HTML, CSS and JavaScript. Website upgrades are still in process ...</h2>
+<h2>Hosting Link: https://uvrays123.github.io/website/ </h2>
